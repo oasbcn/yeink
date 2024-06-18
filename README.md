@@ -8,8 +8,6 @@
 <p align="center"><b>贰耶</b> [ˈ12yyyyy]，耶系-集资源、店铺、经验的ink个人知识库。</p>
 
 <p align="center">
-
-
   <img src="https://img.shields.io/badge/-Markdown-000?logo=Markdown&logoColor=FFF" alt="Markdown" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-VSCode-C0C0C0?logo=Visual-Studio-Code&logoColor=007ACC" alt="VSCode" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=FFF" alt="GitHub" style="display: inline-block;" />&nbsp;
@@ -18,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Python-A9A9A9?logo=Python&logoColor=3776AB" alt="Python" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-C0C0C0?logo=TypeScript&logoColor=3178C6" alt="TypeScript" style="display: inline-block;" />&nbsp;
 <br />
+    
 </p>
 <center>
     <a href="https://0v.ink">官网</a>&nbsp;
@@ -35,7 +34,7 @@
 - 官网地址：<https://0v.ink>
 - 作者 ：`贰耶`
 - 系列：`12yyyyy - 耶系`
-- 和大多数人一样，喜欢捣鼓、搞点小东西，从18年开始就一直有用关于`贰耶`这两个字的相关名字在社交平台上，因为很多词语都是十二画dddd(懂得都懂:clown_face:)
+- 和大多数人一样，喜欢捣鼓、搞点小东西，从18年开始就一直有用关于`贰耶`这两个字的相关名字在社交平台上，因为很多词语都是十二画dddd(懂得都懂🤡)
 
 # 系列
 
@@ -61,7 +60,7 @@
 
 # 友情链接
 
-  :clown_face:[耶系店铺](https://pay.pang12.com)&nbsp;
-  :clown_face:[(gitee)](https://gitee.com/yeink/yeink)&nbsp;
-  :clown_face:[(gitcode)](https://gitcode.com/ink0v/yeink/overview)&nbsp;
-  :clown_face:[(github)](https://github.com/12yyyyy/yeink)&nbsp;
+  🤡[耶系店铺](https://pay.pang12.com)&nbsp;
+  🤡[(gitee)](https://gitee.com/yeink/yeink)&nbsp;
+  🤡[(gitcode)](https://gitcode.com/ink0v/yeink/overview)&nbsp;
+  🤡[(github)](https://github.com/12yyyyy/yeink)&nbsp;
