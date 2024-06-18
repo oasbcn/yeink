@@ -16,17 +16,17 @@
   <img src="https://img.shields.io/badge/-Python-A9A9A9?logo=Python&logoColor=3776AB" alt="Python" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-C0C0C0?logo=TypeScript&logoColor=3178C6" alt="TypeScript" style="display: inline-block;" />&nbsp;
 <br />
-    
+</p>    
 
-<center>
+<p align="center">
     <a href="https://0v.ink">官网</a>&nbsp;
     <a href="https://www.pang12.com">资源</a>&nbsp;
     <a href="https://pay.pang12.com">店铺</a>&nbsp;
     <a href="">社区(搬砖中.)</a>&nbsp;
     <a href="https://github.com/12yyyyy/yeink">github</a>&nbsp;
     <a href="">经验贴(+1)</a>&nbsp;
-</center>
-</p>
+<br />
+</p>    
 ------------------------------
 
 # 贰耶
