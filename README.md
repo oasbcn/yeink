@@ -54,7 +54,7 @@
 | ~~店铺~~    | ~~耶系ink 店铺~~ |~~2024.5~~   |&#10008;     |
 | 社区        |耶系社区论坛类 |<span style="color: red;">loading...</span>|       |
 | 经验贴      | 耶系经验贴   |2024.6|   ✔  |
-| 尝鲜站      |    一些新内容    |<span style="color: red;">loading...</span>|       |
+| 尝鲜站      |    一些新内容    |<span style="color: red;">2024.5</span>| 上线发布页     |
 | YOJ         | OJ相关阅读+体验 |<span style="color: red;">2024.6</span>|  ✔   |
 | ...         |  ...   |<span style="color: red;">...</span>|       |
 
