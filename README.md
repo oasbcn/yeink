@@ -61,7 +61,6 @@
 
 # 友情链接
 
-  🤡[耶系店铺](https://pay.pang12.com)&nbsp;
   🤡[(gitee)](https://gitee.com/yeink/yeink)&nbsp;
   🤡[(gitcode)](https://gitcode.com/ink0v/yeink/overview)&nbsp;
   🤡[(github)](https://github.com/12yyyyy/yeink)&nbsp;
