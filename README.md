@@ -42,7 +42,7 @@
 
 # 许可证
 
-[![license](https://img.shields.io/github/license/halo-dev/halo.svg?style=flat-square)](https://kkgithub.com/12yyyyy/my-vit)
+[![license](https://img.shields.io/github/license/halo-dev/halo.svg?style=flat-square)](https://kkgithub.com/12yyyyy/yeink)
 请遵守开源协议。
 
 # 超长长长计划
