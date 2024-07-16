@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<p align="center"><b>贰耶</b> [ˈ12yyyyy]，耶系-集资源、店铺、经验的ink个人知识库。</p>
+<p align="center"><b>贰耶</b> [ˈ12yyyyy]，耶系-集资源、尝鲜、经验的ink个人知识库。</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Markdown-000?logo=Markdown&logoColor=FFF" alt="Markdown" style="display: inline-block;" />&nbsp;
