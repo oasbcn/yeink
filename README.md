@@ -21,7 +21,7 @@
 <p align="center">
     <a href="https://0v.ink">官网</a>&nbsp;
     <a href="https://www.pang12.com">资源</a>&nbsp;
-    <a href="https://oj.cpoj.cn/">OJ</a>&nbsp;
+    <a href="https://oj.cpoj.cn/">CPOJ</a>&nbsp;
     <a href="">社区(搬砖中.)</a>&nbsp;
     <a href="https://github.com/12yyyyy/yeink">github</a>&nbsp;
     <a href="">经验贴⁺²</a>&nbsp;
