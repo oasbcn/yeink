@@ -21,10 +21,10 @@
 <p align="center">
     <a href="https://0v.ink">官网</a>&nbsp;
     <a href="https://www.pang12.com">资源</a>&nbsp;
-    <a href="https://pay.pang12.com">店铺</a>&nbsp;
+    <a href="https://oj.cpoj.cn/">OJ</a>&nbsp;
     <a href="">社区(搬砖中.)</a>&nbsp;
     <a href="https://github.com/12yyyyy/yeink">github</a>&nbsp;
-    <a href="">经验贴(+1)</a>&nbsp;
+    <a href="">经验贴⁺²</a>&nbsp;
 <br />
 </p>    
 
@@ -55,7 +55,7 @@
 | 社区        |耶系社区论坛类 |<span style="color: red;">loading...</span>|       |
 | 经验贴      | 耶系经验贴   |2024.6|   ✔  |
 | 尝鲜站      |    一些新内容    |<span style="color: red;">2024.5</span>| 上线发布页     |
-| YOJ         | OJ相关阅读+体验 |<span style="color: red;">2024.6</span>|  ✔   |
+| CPOJ         | OJ相关阅读+体验 |<span style="color: red;">2024.6</span>|✔   |
 | ...         |  ...   |<span style="color: red;">...</span>|       |
 
 
